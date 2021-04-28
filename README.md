@@ -1,4 +1,4 @@
-# gonclear
+# GONCLEAR - 1.0
 
 ENGLISH:
 A very simple little program that removes the cache of undeletable files and optimizes the disk in one command! 
