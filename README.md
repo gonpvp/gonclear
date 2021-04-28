@@ -11,7 +11,7 @@ FRENCH:
 
 Un petit programme très simple qui supprimés le cache des fichiers indérisables et optimiser le disque en une seule commande ! 
 
-Nécessite une dépendance de Python (https://www.python.org)
+Nécessite la dépendance Python (https://www.python.org)
 
 Programme testé et fonctionnel sous les dernières versions de Windows 10
 
