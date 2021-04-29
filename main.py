@@ -1,4 +1,4 @@
-# + !/bin/python
+#!/bin/python
 import os  
 
 def write_lang():
