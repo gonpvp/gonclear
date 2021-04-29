@@ -27,7 +27,7 @@ def help_fr():
     print("(peut causer le disfonctionnement du Windows Store)")
 
 def help_en():
-    print("Voice the list of executable commands:")
+    print("Here is the list of executable commands:")
     print("- cleardisk")
     print("cleardisk allows to delete, optimize all the undeliverable and useless files of Windows (Beta)")
     print("- resetws")
