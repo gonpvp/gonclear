@@ -2,6 +2,9 @@
 
 https://user-images.githubusercontent.com/24825008/116592323-2b927c00-a920-11eb-882f-0f88bac4d4b2.mp4
 
+Tutorials:
+https://github.com/gonpvp/gonclear/releases/
+
 ENGLISH:
 A very simple little program that removes the cache of undeletable files and optimizes the disk in one command! 
 
