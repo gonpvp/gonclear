@@ -1,4 +1,4 @@
-#!/bin/python
+# + !/bin/python
 import os  
 
 def write_lang():
@@ -19,6 +19,7 @@ def input_lang():
     lang = input("Type the language of the program (fr or en) >> ")
 
 def help_fr():
+    print(" ")
     print("Voice la liste des commandes executables:")
     print("- cleardisk")
     print("cleardisk permet de supprimés,optimisés tout les fichiers indélérisables et inutiles de Windows (Beta)")
@@ -27,7 +28,8 @@ def help_fr():
     print("(peut causer le disfonctionnement du Windows Store)")
 
 def help_en():
-    print("Here is the list of executable commands:")
+    print(" ")
+    print("Voice the list of executable commands:")
     print("- cleardisk")
     print("cleardisk allows to delete, optimize all the undeliverable and useless files of Windows (Beta)")
     print("- resetws")
@@ -60,6 +62,7 @@ def command_in_french():
         print("Nettoyage du cache du Windows store en cours ...")
         os.system("wsreset")
         print("Fini !")
+        print(" ")
         repeat_command_in_french()
         
 def command_in_english():
@@ -82,6 +85,7 @@ def command_in_english():
         print("Cleaning the cache of the Windows store in progress ...")
         os.system("wsreset")
         print("Done !")
+        print(" ")
         repeat_command_in_english()
      
 start()        
